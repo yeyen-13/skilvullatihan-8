@@ -50,4 +50,7 @@
     .card-continer {
         grid-template-columns: auto;
     }
+   #carouselExampleControls{
+       display: none;
+   }
 }
