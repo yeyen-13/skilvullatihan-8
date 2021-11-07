@@ -10,3 +10,5 @@
 4.Bagaimana tata cara penggunaan Bootstrap?
 => 1.dengan menginstal bootstrap melalui website reminya
 2.memasukkan link bootstrap pada html
+import bootstrap
+gunakan componen yang sudah di tentukan oleh boostrap untukstayls nya ikuti sesaui dengan yang sudah di tentukan
